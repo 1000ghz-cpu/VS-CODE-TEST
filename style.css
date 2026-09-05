@@ -18,7 +18,7 @@ body {
 #square {
   width: 100px;
   height: 100px;
-  background-color: #ff0000;
+  background-color: #800080;
   transition: width 0.2s, height 0.2s;
 }
 
