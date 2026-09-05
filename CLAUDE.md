@@ -1,0 +1,5 @@
+- This is a learning project.
+- Keep the code beginner-friendly.
+- Use only HTML, CSS, and vanilla JavaScript.
+- Do not install external dependencies unless I explicitly ask.
+- When I ask you to modify something, explain what files you intend to change before making the changes.
